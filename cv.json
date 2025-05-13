@@ -149,21 +149,24 @@
       "isActive": true,
       "description": "Winner of Kavach 2023 Hackathon. React + Electron + Solr-powered desktop app for disk, memory, and network forensics.",
       "highlights": [],
-      "url": "https://news.careers360.com/jmi-engineering-students-win-first-cyber-security-challenge"
+      "url": "https://news.careers360.com/jmi-engineering-students-win-first-cyber-security-challenge",
+      "github": "https://news.careers360.com/jmi-engineering-students-win-first-cyber-security-challenge"
     },
     {
       "name": "JS Blueprints",
       "isActive": true,
       "description": "Visual scripting-based code builder inspired by Unreal Blueprints.",
       "highlights": [],
-      "url": "https://github.com/Sarfraz-droid/JS-Blueprints"
+      "url": "https://github.com/Sarfraz-droid/JS-Blueprints",
+      "github": "https://github.com/Sarfraz-droid/JS-Blueprints"
     },
     {
       "name": "blah.js",
       "isActive": true,
       "description": "Dynamic UI rendering library with its own compiler and parser.",
       "highlights": [],
-      "url": "https://github.com/Sarfraz-droid/blah.js"
+      "url": "https://github.com/Sarfraz-droid/blah.js",
+      "github":"https://github.com/Sarfraz-droid/blah.js"
     },
     {
       "name": "Go-Dis",
@@ -171,7 +174,8 @@
       "description": "Redis implementation using Go and RESP protocol.",
       "highlights": [],
 
-      "url": "https://github.com/Sarfraz-droid/go-dis/tree/master"
+      "url": "https://github.com/Sarfraz-droid/go-dis/tree/master",
+      "github":"https://github.com/Sarfraz-droid/go-dis/tree/master"
     }
   ],
   "awards": [
