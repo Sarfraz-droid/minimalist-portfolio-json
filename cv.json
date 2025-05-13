@@ -34,7 +34,8 @@
       "startDate": "2024-10-01",
       "endDate": null,
       "summary": "Worked on product revamps for Interview Pages and Global Search. Implemented AI-powered Post Rephrase feature using Gemini with session-level rate-limiting.",
-      "highlights": []
+      "highlights": [],
+      "url": "https://ambitionbox.com"
     },
     {
       "name": "Helium (gethelium.co)",
@@ -42,7 +43,8 @@
       "startDate": "2024-06-01",
       "endDate": "2024-10-01",
       "summary": "Worked on Helium Glide (No-Code Web Builder). Migrated app from CSR to ISR for improved performance.",
-      "highlights": []
+      "highlights": [],
+      "url":"https://gethelium.co"
     },
     {
       "name": "Swiggy Instamart",
@@ -50,7 +52,8 @@
       "startDate": "2023-10-01",
       "endDate": "2024-06-01",
       "summary": "Enhanced the IM Retails App with NewRelic monitoring. Participated in UI revamp and migration to React Native.",
-      "highlights": []
+      "highlights": [],
+      "url": "https://swiggy.in"
     },
     {
       "name": "CodeForGovTech (Beckn Protocol)",
@@ -58,7 +61,8 @@
       "startDate": "2023-06-01",
       "endDate": "2023-08-01",
       "summary": "Created a CLI tool for auto-code generation and built modular SDK and UI boilerplate for Beckn Protocol.",
-      "highlights": []
+      "highlights": [],
+      "url": "https://becknprotocol.io"
     },
     {
       "name": "Google Summer of Code (ScoreLab)",
@@ -66,7 +70,8 @@
       "startDate": "2022-06-01",
       "endDate": "2022-09-01",
       "summary": "Revamped UI and architecture of Codelabz. Improved dev experience by optimizing dependency tree.",
-      "highlights": []
+      "highlights": [],
+      "url": "https://summerofcode.withgoogle.com/"
     }
   ],
   "education": [
